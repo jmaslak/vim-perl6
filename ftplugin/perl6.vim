@@ -104,7 +104,7 @@ if get(g:, 'perl6_unicode_abbrevs', 0)
     iabbrev <buffer> (atomic) ⚛
     iabbrev <buffer> (cont) ∋
     iabbrev <buffer> (elem) ∈
-    iabbrev <buffer> * ×
+"    iabbrev <buffer> * ×
     iabbrev <buffer> **0 ⁰
     iabbrev <buffer> **1 ¹
     iabbrev <buffer> **2 ²
@@ -116,7 +116,7 @@ if get(g:, 'perl6_unicode_abbrevs', 0)
     iabbrev <buffer> **8 ⁸
     iabbrev <buffer> **9 ⁹
     iabbrev <buffer> ... …
-    iabbrev <buffer> / ÷
+"    iabbrev <buffer> / ÷
     iabbrev <buffer> << «
     iabbrev <buffer> <<[=]<< «=«
     iabbrev <buffer> <<[=]>> «=»
