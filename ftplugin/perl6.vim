@@ -135,8 +135,8 @@ if get(g:, 'perl6_unicode_abbrevs', 0)
     iabbrev <buffer> atomic-fetch-inc ⚛++
     iabbrev <buffer> atomic-inc-fetch ++⚛
     iabbrev <buffer> atomic-sub-fetch ⚛−=
-    iabbrev <buffer> e 𝑒
-    iabbrev <buffer> o ∘
+"    iabbrev <buffer> e 𝑒
+"    iabbrev <buffer> o ∘
     iabbrev <buffer> pi π
     iabbrev <buffer> set() ∅
     iabbrev <buffer> tau τ
